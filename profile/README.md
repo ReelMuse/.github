@@ -2,6 +2,9 @@
 
 **Turn your ideas into videos. Make your photos dance.**
 
+<img width="1368" height="745" alt="Screenshot 2026-09-21 at 14 14 28" src="https://github.com/user-attachments/assets/69ad9768-12fd-4be8-b644-7f92c4d4ab9e" />
+
+
 [ReelMuse](https://reelmuse.app) is an AI video and image creation platform with a rich library of dance templates. Create videos from text, photos, or reference videos, and bring photos of people, babies, and pets to life.
 
 ## Features
@@ -12,6 +15,7 @@
 - **AI Image Tools** — Generate and edit images in the same platform.
 
 ## Make Your Photo Dance
+<img width="1299" height="1126" alt="Screenshot 2026-09-21 at 14 33 43" src="https://github.com/user-attachments/assets/b4515dcf-8b05-4631-8e78-692949fe6f20" />
 
 Choose a dance template or upload a dance video → Upload your photo → Generate and download.
 
